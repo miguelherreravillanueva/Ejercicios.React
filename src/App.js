@@ -1,3 +1,4 @@
+import React from "react";
 import './App.css';
 import PersonFunctional from "./components/PersonFunctional/PersonFunctional"
 import PersonClass from './components/PersonClass.jsx/PersonClass';
